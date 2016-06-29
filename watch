@@ -1,5 +1,5 @@
 #!/bin/bash
-watchb 'slidybuild < README.md > index.html; date' index.html
+watchb 'slidybuild --https < README.md > index.html; date' index.html
 
 # # prerequisites
 # yaourt -S inotify-tools
