@@ -1,0 +1,14 @@
+#!/bin/bash
+watchb 'slidybuild < README.md > index.html; date' index.html
+
+# # prerequisites
+# yaourt -S inotify-tools
+# git https://github.com/kaosf/bash-watch
+# cd bash-watch
+# ./configure --prefix=$HOME/local && make && make install
+# cd -
+# yaourt -S pandoc
+# git https://github.com/kaosf/slidy-builder
+# cd slidy-builder
+# ./configure --prefix=$HOME/local && make && make install
+# cd -
