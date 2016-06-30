@@ -6,6 +6,6 @@
 
 このスライドは公開されています
 
-[https://kaosf.github.io/20160702-os-takamatsu](https://kaosf.github.io/20160702-os-takamatsu)
+[https://kaosf.github.io/20160702-os-kagawa](https://kaosf.github.io/20160702-os-kagawa)
 
-Repository: [kaosf/20160702-os-takamatsu - GitHub](https://github.com/kaosf/20160702-os-takamatsu)
+Repository: [kaosf/20160702-os-kagawa - GitHub](https://github.com/kaosf/20160702-os-kagawa)
