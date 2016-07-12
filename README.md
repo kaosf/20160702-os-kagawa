@@ -419,6 +419,12 @@ execute "git clone git@bitbucket.org:kaosf/myapp.git /home/user/myapp"
 
 何か知ってる人居たら教えて下さい
 
+# (追記)
+
+一応以下のようにして何とか動くようには出来ました
+
+[ItamaeでBitbucketのprivate repositoryからcloneする方法 - Qiita](http://qiita.com/ka_/items/92aba2661c120f340283)
+
 # gitが動く例
 
 公開リポジトリからSSH認証とか無しで取ってくるのは普通に出来ます
